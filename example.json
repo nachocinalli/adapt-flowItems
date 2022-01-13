@@ -1,0 +1,104 @@
+{
+  "_id": "c-05",
+  "_parentId": "b-05",
+  "_type": "component",
+  "_component": "flowItems",
+  "_classes": "",
+  "_layout": "full",
+  "title": "Flow Items",
+  "displayTitle": "Flow Items",
+  "body": "This is optional body text.",
+  "instruction": "This is the instruction text.",
+
+  "_setCompletionOn": "allItems",
+  "_isSequential": true,
+  "_isAutoScroll": true,
+  "_scrollDuration": 400,
+  "_scrollOffsetTop": 60,
+
+  "_buttons": {
+    "_next": {
+      "text": "Continue",
+      "ariaLabel": "Select here to move to the next.",
+      "_icon": {
+        "src": "",
+        "_classes": "",
+        "alt": ""
+      }
+    },
+    "_end": {
+      "text": "Restart",
+      "ariaLabel": "Select here to restart.",
+      "_icon": {
+        "src": "",
+        "_classes": "",
+        "alt": ""
+      }
+    }
+  },
+  "_items": [
+    {
+      "title": "Flow title",
+      "body": "Flow body",
+      "_graphic": {
+        "alt": "",
+        "large": "",
+        "small": ""
+      },
+      "_classes": "",
+      "_items": [
+        {
+          "title": "Item title",
+          "body": "Item body",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        }
+      ]
+    },
+    {
+      "title": "Flow title",
+      "body": "Flow body",
+      "_graphic": {
+        "alt": "",
+        "large": "",
+        "small": ""
+      },
+      "_classes": "",
+      "_items": [
+        {
+          "title": "Item title",
+          "body": "Item body",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        }
+      ]
+    },
+    {
+      "title": "Flow title",
+      "body": "Flow body",
+      "_graphic": {
+        "alt": "",
+        "large": "",
+        "small": ""
+      },
+      "_classes": "",
+      "_items": [
+        {
+          "title": "Item title",
+          "body": "Item body",
+          "_graphic": {
+            "alt": "",
+            "large": "",
+            "small": ""
+          }
+        }
+      ]
+    }
+  ]
+}
